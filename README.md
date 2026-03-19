@@ -1,16 +1,16 @@
-# 🚗 Car Sharing Demand Prediction
+# Car Sharing Demand Prediction
 
 This project aims to forecast the hourly demand for car sharing services using historical environmental and temporal data. Predictive insights from this model can help optimize fleet allocation and improve customer service for car-sharing platforms.
 
 ---
 
-## 📊 Project Objective
+## Project Objective
 
 To develop and evaluate machine learning models that predict the number of cars rented in an hour based on features like temperature, humidity, and time of day.
 
 ---
 
-## 🧠 Techniques Used
+## Techniques Used
 
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
@@ -25,7 +25,7 @@ To develop and evaluate machine learning models that predict the number of cars 
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - File: `CarSharing.csv`
 - Contains hourly records of environmental conditions and corresponding car sharing demand.
